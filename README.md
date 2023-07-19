@@ -5,18 +5,16 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;Aspiring+Software+Engineer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
-<p><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="VitthalGund" /></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="VitthalGund" /></p>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-
-<h2>About me</h2>
+<h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>About me</h2>
 
 <details>
  <summary>
+ <b>Greetings, my name is Vitthal Gund, and I am a computer science student pursuing a diploma in computer engineering at the government polytechnic mumbai. I am in my third year of study and possess strong knowledge in various programming languages including c, c++, python, and Java, as well as web technologies such as HTML, CSS, javascript, and Nodejs...</b>
  </summary>
 <b>
-Greetings, my name is Vitthal Gund, and I am a computer science student pursuing a diploma in computer engineering at the government polytechnic mumbai. I am in my third year of study and possess strong knowledge in various programming languages including c, c++, python, and Java, as well as web technologies such as HTML, CSS, javascript, and Nodejs.
-
+ <br/>
 Over the course of my academic journey, I have created several small projects based on my skills and learning experiences in different programming languages. Additionally, I have designed various projects using Arduino and C++ libraries.
 
 With a deep interest in mobile and web application development, I have invested significant effort in developing my skills in this field. I am currently focusing on Android development, as well as the web technologies react js and node js, to build a portfolio of impressive projects that showcase my proficiency in these technologies.
@@ -97,7 +95,7 @@ My ultimate ambition is to develop more complex projects in these areas to gain 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
 </a>
 <a href="https://www.oracle.com/" style="padding:5px" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="60"/>
 </a>
 <a href="https://www.mysql.com/" style="padding:5px" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70">
@@ -133,13 +131,13 @@ My ultimate ambition is to develop more complex projects in these areas to gain 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- <summary><b>💻 GitHub Profile Stats</b></summary>
+ <summary><b>💻 GitHub Profile Status</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/VitthalGund/github-readme-stats"><img alt="Vitthal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VitthalGund&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/VitthalGund/github-readme-stats"><img alt="Vitthal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VitthalGund&show_icons=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitthalGund&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="VitthalGund" height="192px"/>
+  &nbsp; 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitthalGund&langs_count=10&show_icons=true&layout=compact&theme=algolia" alt="VitthalGund" height="192px"/>
   <br/>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitthalGund&theme=solarized_dark">
@@ -147,7 +145,6 @@ My ultimate ambition is to develop more complex projects in these areas to gain 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitthalGund&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitthalGund&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitthalGund&theme=solarized_dark&utcOffset=8">
-
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -155,8 +152,6 @@ My ultimate ambition is to develop more complex projects in these areas to gain 
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-![](https://komarev.com/ghpvc/?username=VitthalGund&label=Visitors+Count&color=brightgreen)
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
