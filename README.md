@@ -79,7 +79,7 @@ My ultimate ambition is to develop more complex projects in these areas to gain 
 ## Backend Technologies
 
 <a href="https://expressjs.com" style="padding:5px" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" style="color:white"height="70"/>
 </a>
 </a>
 <a href="https://nodejs.org" style="padding:5px" target="_blank" rel="noreferrer">
