@@ -11,16 +11,31 @@
 
 <details>
  <summary>
- <b>Greetings, my name is Vitthal Gund, and I am a computer science student pursuing a diploma in computer engineering at the government polytechnic mumbai. I am in my third year of study and possess strong knowledge in various programming languages including c, c++, python, and Java, as well as web technologies such as HTML, CSS, javascript, and Nodejs...</b>
- </summary>
+ <b>Hey there! I'm Vitthal Gund, a dedicated web developer on a journey of continuous learning and growth. A computer science student immersed in the world of technology. Currently pursuing a diploma in computer engineering at the Government Polytechnic Mumbai, I'm in my third year, I'm actively exploring the exciting world of web development.</summary>
 <b>
  <br/>
-Over the course of my academic journey, I have created several small projects based on my skills and learning experiences in different programming languages. Additionally, I have designed various projects using Arduino and C++ libraries.
+In my journey so far, I've delved deep into various programming languages like C, C++, Python, and Java, alongside mastering web technologies such as HTML, CSS, JavaScript, Typescript, React.js, Next.js, Nest.js and Node.js.
 
-With a deep interest in mobile and web application development, I have invested significant effort in developing my skills in this field. I am currently focusing on Android development, as well as the web technologies react js and node js, to build a portfolio of impressive projects that showcase my proficiency in these technologies.
+🚀 Skills & Expertise:
+1. Frontend: React.js, Next.js, Redux.js, Tailwind CSS
+2. Backend: Node.js, Express.js, Nest.js
+3. Databases: MongoDB, Firebase, MySQL, PostgreSQL
+4. Languages: JavaScript, TypeScript, Python, Java, C, C++
+5. Tools & Frameworks: TensorFlow.js, Prisma, Mongoose
 
-My ultimate ambition is to develop more complex projects in these areas to gain a deeper understanding of the concepts I have acquired. I aspire to build a robust skill set to enable me to pursue a successful career in this exciting and dynamic field. I am excited to explore new opportunities and connect with like-minded professionals.</b>
+💻 Projects Reflecting My Skills:
+1. Query Mate: AI-powered application extracting precise answers from various sources.
+2. Price Pulse: Real-time tracking of product prices across e-commerce platforms.
+3. Auth Stack: MERN/Next.js authentication solution with 100% customization.
+4. Versa Verse: Empowering diverse blogging experiences with Next.js and Firebase.
+5. Movie Magic Hub: Curating the best in movies and TV shows for an enriching entertainment experience.
+6. Dev Chats: Streamlining developer collaboration with real-time code editing and encrypted chats.
 
+💡 Certifications & Practice:
+As a practicing web developer, I've earned certifications from freeCodeCamp in Responsive Web Development, Frontend Development Libraries, Backend Development and APIs, JavaScript Data Structures and Algorithms, and Java and Ultimate React JS from Udemy. 
+Notably, my State Level @MSBTE Technical Paper Presentation win underscores my commitment to pushing boundaries and achieving excellence.
+
+🚀 Open to Exciting Opportunities: Passionate about leveraging my skills in a dynamic tech environment. Eager to explore opportunities aligned with my full-stack expertise. Let's connect and explore the possibilities!
 </details>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
