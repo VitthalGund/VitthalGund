@@ -14,27 +14,31 @@
  <b>Hey there! I'm Vitthal Gund, a dedicated web developer on a journey of continuous learning and growth. A computer science student immersed in the world of technology. Currently pursuing a diploma in computer engineering at the Government Polytechnic Mumbai, I'm in my third year, I'm actively exploring the exciting world of web development.</summary>
 <b>
  <br/>
+ 
 In my journey so far, I've delved deep into various programming languages like C, C++, Python, and Java, alongside mastering web technologies such as HTML, CSS, JavaScript, Typescript, React.js, Next.js, Nest.js and Node.js.
+
 <br/>
-🚀 Skills & Expertise:
-1. Frontend: React.js, Next.js, Redux.js, Tailwind CSS
-2. Backend: Node.js, Express.js, Nest.js
-3. Databases: MongoDB, Firebase, MySQL, PostgreSQL
-4. Languages: JavaScript, TypeScript, Python, Java, C, C++
-5. Tools & Frameworks: TensorFlow.js, Prisma, Mongoose
-
-💻 Projects Reflecting My Skills:
-1. Query Mate: AI-powered application extracting precise answers from various sources.
-2. Price Pulse: Real-time tracking of product prices across e-commerce platforms.
-3. Auth Stack: MERN/Next.js authentication solution with 100% customization.
-4. Versa Verse: Empowering diverse blogging experiences with Next.js and Firebase.
-5. Movie Magic Hub: Curating the best in movies and TV shows for an enriching entertainment experience.
-6. Dev Chats: Streamlining developer collaboration with real-time code editing and encrypted chats.
-
+🚀 Skills & Expertise:<br/>
+1. Frontend: React.js, Next.js, Redux.js, Tailwind CSS <br/>
+2. Backend: Node.js, Express.js, Nest.js <br/>
+3. Databases: MongoDB, Firebase, MySQL, PostgreSQL <br/>
+4. Languages: JavaScript, TypeScript, Python, Java, C, C++ <br/>
+5. Tools & Frameworks: TensorFlow.js, Prisma, Mongoose <br/>
+ <br/>
+<br/>
+💻 Projects Reflecting My Skills:<br/>
+1. Query Mate: AI-powered application extracting precise answers from various sources.<br/>
+2. Price Pulse: Real-time tracking of product prices across e-commerce platforms.<br/>
+3. Auth Stack: MERN/Next.js authentication solution with 100% customization.<br/>
+4. Versa Verse: Empowering diverse blogging experiences with Next.js and Firebase. <br/>
+5. Movie Magic Hub: Curating the best in movies and TV shows for an enriching entertainment experience. <br/>
+6. Dev Chats: Streamlining developer collaboration with real-time code editing and encrypted chats.<br/>
+<br/>
 💡 Certifications & Practice:
 As a practicing web developer, I've earned certifications from freeCodeCamp in Responsive Web Development, Frontend Development Libraries, Backend Development and APIs, JavaScript Data Structures and Algorithms, and Java and Ultimate React JS from Udemy. 
 Notably, my State Level @MSBTE Technical Paper Presentation win underscores my commitment to pushing boundaries and achieving excellence.
-
+<br/>
+<br/>
 🚀 Open to Exciting Opportunities: Passionate about leveraging my skills in a dynamic tech environment. Eager to explore opportunities aligned with my full-stack expertise. Let's connect and explore the possibilities!
 </details>
 
