@@ -15,7 +15,7 @@
 <b>
  <br/>
 In my journey so far, I've delved deep into various programming languages like C, C++, Python, and Java, alongside mastering web technologies such as HTML, CSS, JavaScript, Typescript, React.js, Next.js, Nest.js and Node.js.
-
+<br/>
 🚀 Skills & Expertise:
 1. Frontend: React.js, Next.js, Redux.js, Tailwind CSS
 2. Backend: Node.js, Express.js, Nest.js
