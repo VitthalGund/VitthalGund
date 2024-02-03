@@ -134,7 +134,7 @@ Notably, my State Level @MSBTE Technical Paper Presentation win underscores my c
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
 </a>
 
-## Other Tools
+## Development Tools
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
