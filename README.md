@@ -48,7 +48,7 @@ Notably, my State Level @MSBTE Technical Paper Presentation win underscores my c
 <a href="https://linkedin.com/in/vitthal-gund" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="50" />
 </a>
-<a href="https://instagram.com/29_vitthal" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="50" /></a>
+<!-- <a href="https://instagram.com/29_vitthal" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="50" /></a> -->
 <!---<a href="https://leetcode.com/Vitthal29P/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" alt="vitthalgund" height="30" width="50" /></a>-->
 </p>
 <br/>
