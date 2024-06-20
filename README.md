@@ -40,7 +40,7 @@ As a practicing web developer, I've earned certifications from freeCodeCamp in R
 Notably, my State Level @MSBTE Technical Paper Presentation win underscores my commitment to pushing boundaries and achieving excellence.
 <br/>
 <br/>
-🚀 Open to Exciting Opportunities: Passionate about leveraging my skills in a dynamic tech environment. Eager to explore opportunities aligned with my full-stack expertise. Let's connect and explore the possibilities!
+🚀 Open to Exciting Opportunities: Passionate about leveraging my skills in a dynamic tech environment. Eager to explore opportunities aligned with my full-stack expertise. explore the possibilities!
 </details>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
