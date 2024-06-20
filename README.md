@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitthalGund&label=Profile%20views&color=0e75b6&style=flat" alt="VitthalGund" /> </p>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;Aspiring+Software+Engineer;Always+learning+new+things&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learning+Computer+Science;Software+Engineer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="VitthalGund" /></p>
 
