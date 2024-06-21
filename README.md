@@ -37,10 +37,10 @@ In my journey so far, I've delved deep into various programming languages like C
 5. Movie Magic Hub: Curating the best in movies and TV shows for an enriching entertainment experience. <br/>
 6. Dev Chats: Streamlining developer collaboration with real-time code editing and encrypted chats.<br/>
 <br/>
-💡 Certifications & Practice:
+<b>💡 Certifications & Practice:</b>
 As a practicing web developer, I've earned certifications from freeCodeCamp in Responsive Web Development, Frontend Development Libraries, Backend Development and APIs, JavaScript Data Structures and Algorithms, and Java and Ultimate React JS from Udemy. 
-Notably, my State Level @MSBTE Technical Paper Presentation win underscores my commitment to pushing boundaries and achieving excellence.
-<br/>
+<b>Notably, my State Level @MSBTE Technical Paper Presentation win underscores my commitment to pushing boundaries and achieving excellence.
+<br/></b>
 <br/>
 🚀 Open to Exciting Opportunities: Passionate about leveraging my skills in a dynamic tech environment. Eager to explore opportunities aligned with my full-stack expertise. 
 </details>
