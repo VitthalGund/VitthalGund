@@ -20,12 +20,12 @@ In my journey so far, I've delved deep into various programming languages like C
 <br/>
 <b>
 🚀 Skills & Expertise:<br/>
-1. Frontend: React.js, Next.js, Redux.js, Tailwind CSS,SaSS <br/>
-2. Backend: Node.js, Express.js, Nest.js, FastAPI, Django <br/>
-3. Databases: MongoDB, Firebase, MySQL, PostgreSQL, Redis <br/>
-4. Languages: JavaScript, TypeScript, Python, Java, C, C++ <br/>
-5. Tools & Frameworks: TensorFlow.js, Prisma, Mongoose <br/>
-6. Cloud: AWS, AWS EC2, AWS S3, Elastic IP.
+1. Frontend:</b> React.js, Next.js, Redux.js, Tailwind CSS,SaSS <br/>
+<b>2. Backend:</b> Node.js, Express.js, Nest.js, FastAPI, Django <br/>
+<b>3. Databases:</b> MongoDB, Firebase, MySQL, PostgreSQL, Redis <br/>
+<b>4. Languages:</b> JavaScript, TypeScript, Python, Java, C, C++ <br/>
+<b>5. Tools & Frameworks:</b> TensorFlow.js, Prisma, Mongoose <br/>
+<b>6. Cloud: </b>AWS, AWS EC2, AWS S3, Elastic IP.
 </b>
  <br/>
 <br/>
