@@ -11,8 +11,8 @@
 
 <details>
  <summary>
- <b>Hey there! I'm Vitthal Gund, a dedicated web developer on a journey of continuous learning and growth. A computer science student immersed in the world of technology. Currently pursuing a diploma in computer engineering at the Government Polytechnic Mumbai, I'm in my third year, I'm actively exploring the exciting world of web development.</summary>
-<b>
+ <b>Hey there! I'm Vitthal Gund, a dedicated web developer on a journey of continuous learning and growth. A computer science student immersed in the world of technology. </b>Currently pursuing a diploma in computer engineering at the Government Polytechnic Mumbai, I'm in my third year, I'm actively exploring the exciting world of web development.</summary>
+
  <br/>
  
 In my journey so far, I've delved deep into various programming languages like C++, Python, and Java, alongside mastering web technologies such as HTML, CSS, JavaScript, Typescript, React.js, Next.js, Nest.js, Django, FastAPI, and Node.js.
