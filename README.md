@@ -18,6 +18,7 @@
 In my journey so far, I've delved deep into various programming languages like C++, Python, and Java, alongside mastering web technologies such as HTML, CSS, JavaScript, Typescript, React.js, Next.js, Nest.js, Django, FastAPI, and Node.js.
 
 <br/>
+<b>
 🚀 Skills & Expertise:<br/>
 1. Frontend: React.js, Next.js, Redux.js, Tailwind CSS,SaSS <br/>
 2. Backend: Node.js, Express.js, Nest.js, FastAPI, Django <br/>
@@ -25,6 +26,7 @@ In my journey so far, I've delved deep into various programming languages like C
 4. Languages: JavaScript, TypeScript, Python, Java, C, C++ <br/>
 5. Tools & Frameworks: TensorFlow.js, Prisma, Mongoose <br/>
 6. Cloud: AWS, AWS EC2, AWS S3, Elastic IP.
+</b>
  <br/>
 <br/>
 💻 Projects Reflecting My Skills:<br/>
