@@ -164,14 +164,14 @@ As a practicing web developer, I've earned certifications from freeCodeCamp in R
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitthalGund&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitthalGund&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitthalGund&theme=solarized_dark">
+<!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitthalGund&theme=solarized_dark">-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitthalGund&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitthalGund&theme=solarized_dark&utcOffset=8">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### ✍️Random Dev Quote
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
