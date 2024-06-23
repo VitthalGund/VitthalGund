@@ -61,14 +61,14 @@ As a practicing web developer, I've earned certifications from freeCodeCamp in R
 ## Programming Languages
 
 <p align="left" style="padding:5px"> 
-<a href="https://www.cprogramming.com/"  style="padding:5px" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" style="padding:5px" target="_blank" rel="noreferrer">
+<a  style="padding:5px" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
+<a style="padding:5px" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
 </a>
-<a href="https://www.w3schools.com/cs/" style="padding:5px" target="_blank" rel="noreferrer">
+<a  style="padding:5px" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 </a>
-<a href="https://www.python.org" style="padding:5px" target="_blank" rel="noreferrer">
+<a  style="padding:5px" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </a>
 <a href="https://www.java.com" style="padding:5px" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
