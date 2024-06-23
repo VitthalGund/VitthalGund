@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vitthal Gund</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, My self Vitthal Gund</h1>
 <h3 align="center">I'm an Software Engineer & CSE Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitthalGund&label=Profile%20views&color=0e75b6&style=flat" alt="VitthalGund" /> </p>
