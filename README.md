@@ -31,11 +31,11 @@ In my journey so far, I've delved deep into various programming languages like C
 <br/>
 💻<b> Projects Reflecting My Skills:<br/>
 1. Query Mate:</b> AI-powered standalone search engines application that extract precise answers from various sources(text, audio, video,any file that you can image except binary).<br/>
-2. Price Pulse: Real-time tracking of product prices across e-commerce platforms.<br/>
-3. Auth Stack: MERN/Next.js authentication solution with 100% customization.<br/>
-4. Versa Verse: Empowering diverse blogging experiences with Next.js and Firebase. <br/>
-5. Movie Magic Hub: Curating the best in movies and TV shows for an enriching entertainment experience. <br/>
-6. Dev Chats: Streamlining developer collaboration with real-time code editing and encrypted chats.<br/>
+<b>2. Price Pulse:</b> Real-time tracking of product prices across e-commerce platforms.<br/>
+<b>3. Auth Stack:</b> MERN/Next.js authentication solution with 100% customization.<br/>
+<b>4. Versa Verse:</b> Empowering diverse blogging experiences with Next.js and Firebase. <br/>
+<b>5. Movie Magic Hub:</b> Curating the best in movies and TV shows for an enriching entertainment experience. <br/>
+<b>6. Dev Chats:</b> Streamlining developer collaboration with real-time code editing and encrypted chats.<br/>
 <br/>
 <b>💡 Certifications & Practice:</b>
 As a practicing web developer, I've earned certifications from freeCodeCamp in Responsive Web Development, Frontend Development Libraries, Backend Development and APIs, JavaScript Data Structures and Algorithms, and Java and Ultimate React JS from Udemy. 
