@@ -30,7 +30,7 @@ In my journey so far, I've delved deep into various programming languages like C
  <br/>
 <br/>
 💻<b> Projects Reflecting My Skills:<br/>
-1. Query Mate:</b> AI-powered standalone search engines application that extract precise answers from various sources(text, audio, video,any file that you can image except binary).<br/>
+1. Query Mate:</b> AI-powered standalone search engines application that extract precise answers from various sources(text, audio, video,any file that you can imagine except binary).<br/>
 <b>2. Price Pulse:</b> Real-time tracking of product prices across e-commerce platforms.<br/>
 <b>3. Auth Stack:</b> MERN/Next.js authentication solution with 100% customization.<br/>
 <b>4. Versa Verse:</b> Empowering diverse blogging experiences with Next.js and Firebase. <br/>
