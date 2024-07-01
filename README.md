@@ -11,7 +11,7 @@
 
 <details>
  <summary>
- <b>Hey there! I'm Vitthal Gund, a dedicated web developer on a journey of continuous learning and growth. A computer science student immersed in the world of technology. </b>Currently pursuing a diploma in computer engineering at the Government Polytechnic Mumbai, I'm in my third year, I'm actively exploring the exciting world of building AI powered Application.</summary>
+ <b>Hey there! I'm Vitthal , a dedicated web developer on a journey of continuous learning and growth. A computer science student immersed in the world of technology. </b>Currently pursuing a diploma in computer engineering at the Government Polytechnic Mumbai, I'm in my third year, I'm actively exploringthe exciting world of building AI powered Application.</summary>
 
  <br/>
  
