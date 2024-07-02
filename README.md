@@ -25,7 +25,7 @@ In my journey so far, I've delved deep into various programming languages like C
 <b>3. Databases:</b> MongoDB, Firebase, MySQL, PostgreSQL, Redis <br/>
 <b>4. Languages:</b> JavaScript, TypeScript, Python, Java, C, C++ <br/>
 <b>5. Tools & Frameworks:</b> TensorFlow.js, Prisma, Mongoose <br/>
-<b>6. Cloud: </b>AWS, AWS EC2, AWS S3, Elastic IP.
+<b>6. Cloud: </b>AWS, AWS EC2, AWS S3, AWS Elastic IP, AWS Security Groups, Nginx.
 </b>
  <br/>
 <br/>
