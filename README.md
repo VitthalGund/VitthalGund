@@ -163,7 +163,7 @@ As a practicing web developer, I've earned certifications from freeCodeCamp in R
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitthalGund&langs_count=10&show_icons=true&layout=compact&theme=algolia" alt="VitthalGund" height="192px"/>
   <br/>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitthalGund&theme=solarized_dark">
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitthalGund&theme=solarized_dark">
 <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitthalGund&theme=solarized_dark">-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitthalGund&theme=solarized_dark">
